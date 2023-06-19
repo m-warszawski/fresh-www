@@ -1,0 +1,42 @@
+
+#small-nav{
+    width: 100%;
+    background-color: var(--color-deep-dark-blue);
+}
+
+#big-nav{
+    width: 100%;
+    background-color: var(--color-dark-blue);
+}
+
+#welcome-section::before{
+    background-color: var(--color-dark-blue);
+    height: 50%;
+}
+
+#welcome-section::after{
+    background-color: var(--color-white);
+    height: 50%;
+}
+
+#cards-section{
+    background-color: var(--color-white);
+}
+
+#opinion-section{
+    background-color: var(--color-light);
+}
+
+#news-section {
+    background-color: var(--color-white);
+}
+
+#big-footer{
+    width: 100%;
+    background-color: var(--color-dark-blue);
+}
+
+#small-footer{
+    width: 100%;
+    background-color: var(--color-light);
+}
